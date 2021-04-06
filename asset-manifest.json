@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/enelreact/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/enelreact/static/js/main.2a18045d.chunk.js",
+    "main.js.map": "/enelreact/static/js/main.2a18045d.chunk.js.map",
+    "runtime-main.js": "/enelreact/static/js/runtime-main.a2ff323a.js",
+    "runtime-main.js.map": "/enelreact/static/js/runtime-main.a2ff323a.js.map",
+    "static/js/2.9d796f39.chunk.js": "/enelreact/static/js/2.9d796f39.chunk.js",
+    "static/js/2.9d796f39.chunk.js.map": "/enelreact/static/js/2.9d796f39.chunk.js.map",
+    "static/js/3.0b575406.chunk.js": "/enelreact/static/js/3.0b575406.chunk.js",
+    "static/js/3.0b575406.chunk.js.map": "/enelreact/static/js/3.0b575406.chunk.js.map",
+    "index.html": "/enelreact/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/enelreact/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9d796f39.chunk.js.LICENSE.txt": "/enelreact/static/js/2.9d796f39.chunk.js.LICENSE.txt",
+    "static/media/Afiche.f52a1116.png": "/enelreact/static/media/Afiche.f52a1116.png",
+    "static/media/GreizyBarrera.84ea2f95.png": "/enelreact/static/media/GreizyBarrera.84ea2f95.png",
+    "static/media/IsaacCastillo.442bbc47.png": "/enelreact/static/media/IsaacCastillo.442bbc47.png",
+    "static/media/LogoENEL.bac4e6ea.png": "/enelreact/static/media/LogoENEL.bac4e6ea.png",
+    "static/media/MargaritaMoscatelli.6e04f213.png": "/enelreact/static/media/MargaritaMoscatelli.6e04f213.png",
+    "static/media/RosilenaLindo.8726df1e.png": "/enelreact/static/media/RosilenaLindo.8726df1e.png",
+    "static/media/expoeventos.02167687.jpg": "/enelreact/static/media/expoeventos.02167687.jpg",
+    "static/media/male.5e264fde.png": "/enelreact/static/media/male.5e264fde.png",
+    "static/media/tick.5e4ddbe0.png": "/enelreact/static/media/tick.5e4ddbe0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2ff323a.js",
+    "static/js/2.9d796f39.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2a18045d.chunk.js"
+  ]
+}
